@@ -1,0 +1,4 @@
+
+REM ADD 'project' VARIABLE TO PATH (ACCESSABLE ANYWHERE)
+
+SET path "%path%;%~dp0"
