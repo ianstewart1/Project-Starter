@@ -3,7 +3,7 @@ Project Starter
 
 I was tired of linking GitHub repositories every time I started on something new, so I decided to automate it as much as I could.
 
-By using the command `project` paired with a (one word) project name, this script will create a new repository and link it with a folder in the directory the command is called from. Additionally a `readme` file will be created with the repo.
+By using the command `project` paired with a (one word) project name, this script will create a new repository and link it with a folder in the directory the command is called from. Additionally a `readme.md` file will be created with the repo.
 
 ## Dependencies:
 
