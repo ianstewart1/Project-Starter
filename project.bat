@@ -26,7 +26,7 @@ REN %1 "%1 Project"
 
 CD "%filePath%\%1 Project"
 
-REM Error case: If there is no input after "project"
+REM Error case: If there is no input after "project", the usage case will be shown
 GOTO :eof
 
 :error
