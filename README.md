@@ -12,7 +12,7 @@ By using the command `project` paired with a (one word) project name, this scrip
 
 ## Setup:
 
-After cloning th erepository, login credentials must be set in `config.yml`
+After cloning the repository, login credentials must be set in `config.yml`
 - **username**: GitHub username
 - **token**: [Authorization token sourced from GitHub.](https://github.com/settings/tokens) (Make sure to give Repository access when creating the token!)
 
