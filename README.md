@@ -1,4 +1,4 @@
-# Project Starter
+Project Starter
 ===============
 
 I was tired of linking GitHub repositories every time I started on something new, so I decided to automate it as much as I could.
